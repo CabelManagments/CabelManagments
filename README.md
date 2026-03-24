@@ -1,36 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=managmenter&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manager&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%">
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://discord.com/users/ВАШ_ID_DISCORD">
-    <img src="https://files.catbox.moe/jywqq2.jpg" width="80" style="border-radius: 50%;">
+  <a href="https://discord.com/users/managmenter">
+    <img src="https://files.catbox.moe/jywqq2.jpg" width="120" style="border-radius: 50%;">
   </a>
   <br>
-  <h1>ᴍᴀɴᴀɢᴇʀ</h1>
-  <p><strong>CODE</strong> · Dev btw</p>
+  <h1>Manager</h1>
+  <p><strong>Dev btw · he/him</strong></p>
+  <p>Discord: <code>managmenter</code></p>
   
-  <a href="https://t.me/ВАШ_TELEGRAM">
+  <a href="https://t.me/bocchicodes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://github.com/ВАШ_USERNAME">
+  <a href="https://steamcommunity.com/id/OnlyDreams/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <a href="https://github.com/CabelManagments">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=CabelManagments&style=flat-square&color=blue" alt="Profile views">
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile;tg%3A+%D0%92%D0%90%D0%A8_TELEGRAM;Dev+btw" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile;Dev+btw;Arch+btw" alt="Typing SVG">
 </div>
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -46,44 +50,33 @@
 
 ---
 
-### 📌 Pinned Projects
+### Pinned Projects
 
 <div align="center">
-  
-  <a href="https://github.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_USERNAME&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ_1&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_USERNAME&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ_2&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/ВАШ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ_3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_USERNAME&repo=НАЗВАНИЕ_РЕПОЗИТОРИЯ_3&theme=radical" />
-  </a>
-  
+  <p><em>Coming soon — check back later for my projects!</em></p>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=CabelManagments&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabelManagments&layout=compact&theme=radical&hide_border=true" width="49%">
 </div>
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <div align="center">
   
-  | Platform | Link |
-  |----------|------|
-  | **Telegram** | [@ВАШ_TELEGRAM](https://t.me/ВАШ_TELEGRAM) |
-  | **GitHub** | [@ВАШ_USERNAME](https://github.com/ВАШ_USERNAME) |
-  | **Discord** | `CODE` |
+| Platform | Link |
+|----------|------|
+| **Telegram** | [@bocchicodes](https://t.me/bocchicodes) |
+| **Steam** | [OnlyDreams](https://steamcommunity.com/id/OnlyDreams/) |
+| **Discord** | `managmenter` |
+| **Arch Linux** | `btw` |
   
 </div>
 
