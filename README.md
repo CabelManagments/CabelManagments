@@ -13,7 +13,7 @@
   <p><strong>Dev btw · he/him</strong></p>
   <p>Discord: <code>managmenter</code></p>
   
-  <a href="https://t.me/bocchicode">
+  <a href="https://t.me/bocchicodes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://steamcommunity.com/id/OnlyDreams/">
@@ -73,7 +73,7 @@
   
 | Platform | Link |
 |----------|------|
-| **Telegram** | [@bocchicodes](https://t.me/bocchicodes) |
+| **Telegram** | [@bocchicode](https://t.me/bocchicode) |
 | **Steam** | [OnlyDreams](https://steamcommunity.com/id/OnlyDreams/) |
 | **Discord** | `managmenter` |
 | **Arch Linux** | `btw` |
