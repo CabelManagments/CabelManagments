@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/managmenter">
-    <img src="https://files.catbox.moe/jywqq2.jpg" width="120" style="border-radius: 50%;">
+    <img src="https://files.catbox.moe/jywqq2.jpg" width="150" style="border-radius: 50%;">
   </a>
   <br>
   <h1>Manager</h1>
@@ -56,7 +56,15 @@
 ### Pinned Projects
 
 <div align="center">
-  <p><em>Coming soon — check back later for my projects!</em></p>
+  
+  <a href="https://github.com/CabelManagments/MacodeWeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CabelManagments&repo=MacodeWeb&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/CabelManagments/ZipGo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CabelManagments&repo=ZipGo&theme=radical" />
+  </a>
+  
 </div>
 
 ---
