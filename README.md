@@ -1,99 +1,47 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manager&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%">
-</div>
+# Привет! Я @buripe 👋
 
-<br>
-
-<div align="center">
-  <a href="https://discord.com/users/managmenter">
-    <img src="https://files.catbox.moe/jywqq2.jpg" width="150" style="border-radius: 50%;">
-  </a>
-  <br>
-  <h1>Manager</h1>
-  <p><strong>Dev btw · he/him</strong></p>
-  <p>Discord: <code>managmenter</code></p>
-  
-  <a href="https://t.me/bocchicode">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://t.me/bocchicodes">
-    <img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://steamcommunity.com/id/OnlyDreams/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  <a href="https://github.com/CabelManagments">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=CabelManagments&style=flat-square&color=blue" alt="Profile views">
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile;Dev+btw;Arch+btw" alt="Typing SVG">
-</div>
+### Разработчик | Технологический энтузиаст
 
 ---
 
-### Tech Stack
+### 🚀 Обо мне
+Я занимаюсь разработкой программного обеспечения, создаю различные решения — от системных инструментов до веб-приложений. Постоянно учусь новому и стремлюсь к написанию чистого кода.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white">
-</div>
+* 💻 Начал свой путь в программировании и продолжаю активно развиваться.
+* 🛠 Работаю над различными проектами: от скриптов на Python до фронтенда на React.
+* ⚡️ Всегда открыт для интересных предложений и коллабораций.
 
 ---
 
-### Pinned Projects
+### 🛠 Стек технологий
 
-<div align="center">
-  
-  <a href="https://github.com/CabelManagments/MacodeWeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CabelManagments&repo=MacodeWeb&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/CabelManagments/ZipGo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CabelManagments&repo=ZipGo&theme=radical" />
-  </a>
-  
-</div>
+**Языки программирования:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Фреймворки и библиотеки:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-### GitHub Stats
+### 💬 Связь и правила общения
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CabelManagments&show_icons=true&theme=radical&hide_title=true&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabelManagments&layout=compact&theme=radical&hide_border=true" width="49%">
-</div>
+Если у вас есть вопросы или предложения, пишите мне или моему менеджеру:
 
----
+* ✈️ **Личный Telegram:** [@buripe](https://t.me/buripe)
+* 💼 **Менеджер:** [@xafeb](https://t.me/xafeb)
 
-### Connect with me
-
-<div align="center">
-  
-| Platform | Link |
-|----------|------|
-| **Telegram** | [@bocchicode](https://t.me/bocchicode) |
-| **Telegram Channel** | [bocchicodes](https://t.me/bocchicodes) |
-| **Steam** | [OnlyDreams](https://steamcommunity.com/id/OnlyDreams/) |
-| **Discord** | `managmenter` |
-| **Arch Linux** | `btw` |
-  
-</div>
+> [!IMPORTANT]
+> **Пожалуйста, будьте вежливы!**
+> Я ценю свое и ваше время. Пожалуйста, не пишите просто «Привет» или «Как дела?». Сразу переходите к сути вашего вопроса или предложения, и я обязательно отвечу вам, как только смогу! 🤝
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>
+### 📊 Моя статистика GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buripe&show_icons=true&theme=tokyonight)
+
+---
+
+*«Хороший код — это лучший аргумент»*
